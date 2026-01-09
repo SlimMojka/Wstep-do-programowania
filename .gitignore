@@ -3,5 +3,6 @@
 *.o
 *.out
 *.json
+*.txt
 build/
 bin/
