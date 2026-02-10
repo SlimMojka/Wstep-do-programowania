@@ -1,37 +1,41 @@
-# 🏛️ Academic Coding Assignments Portfolio (National Louis University)
+# 🏛️ Akademickie portfolio projektów programistycznych (National Louis University)
 
-This repository contains all programming assignments, labs, and projects completed as part of my Computer Science coursework at [National Louis University].
+To repozytorium zawiera wszystkie zadania programistyczne, laboratoria oraz projekty
+zrealizowane w ramach studiów z informatyki na [National Louis University].
 
-The purpose of this collection is to showcase my comprehension of academic material and my ability to complete formal assignments following strict requirements and deadlines.
+Celem tej kolekcji jest zaprezentowanie mojego zrozumienia materiału akademickiego
+oraz umiejętności realizowania formalnych zadań zgodnie z jasno określonymi
+wymaganiami i terminami.
 
-## 📚 Course Structure and Organization
+## 📚 Struktura i organizacja kursów
 
-Assignments are organized by the respective course code and semester. Each course folder contains all related assignments (`Proj-01`, `Lab-05`, etc.) and a dedicated course-level README explaining the technologies used.
+Zadania są uporządkowane według kodu przedmiotu oraz semestru.
+Każdy folder danego kursu zawiera wszystkie powiązane zadania
+(`Proj-01`, `Lab-05` itd.) oraz osobny plik README opisujący użyte technologie.
 
-### Winter 2025 Semester
+### Semestr zimowy 2025
 
-| Course Code | Course Name | Key Topics Covered |
+| Kod kursu | Nazwa kursu | Główne zagadnienia |
 | :--- | :--- | :--- |
-| **CS 101** | Introduction to Programming | Loops, Functions, Arrays/Lists, Basic File Operations. |
-| **MATH 230** | Computational Linear Algebra | Matrix Operations, Gaussian Elimination, Vector Spaces. |
-| **WEB 345** | Front-End Development | HTML5, CSS Grid/Flexbox, JavaScript ES6 fundamentals. |
+| **CS 101** | Wprowadzenie do programowania | Pętle, funkcje, tablice/listy, podstawowe operacje na plikach |
+| **MATH 230** | Obliczeniowa algebra liniowa | Operacje na macierzach, eliminacja Gaussa, przestrzenie wektorowe |
+| **WEB 345** | Front-End Development | HTML5, CSS Grid/Flexbox, podstawy JavaScript ES6 |
 
 ---
 
-### Folder Naming Convention
+### Konwencja nazewnictwa folderów
 
-All folders follow a consistent naming structure for clarity: `[Course Code]-[Project Identifier]-[Brief Description]`.
+Wszystkie foldery stosują spójną strukturę nazewnictwa w celu zachowania czytelności:
+`[Kod kursu]-[Identyfikator projektu]-[Krótki opis]`.
 
-**Example Folders:**
+**Przykładowe foldery:**
 * `CS101-Proj02-Caesar-Cipher`
 * `MATH230-Lab04-Matrix-Multiplication`
 * `WEB345-Final-Portfolio`
 
-## 🔎 Repository Focus
+## 🔎 Zakres repozytorium
 
-This portfolio demonstrates:
-1.  **Requirement Adherence:** Completing projects according to detailed specifications.
-2.  **Concept Application:** Successfully translating theoretical knowledge into working code.
-3.  **Language Proficiency:** Competency in the languages required by the curriculum.
-
----
+To portfolio prezentuje:
+1. **Zgodność z wymaganiami:** realizację projektów zgodnie ze szczegółowymi specyfikacjami.
+2. **Zastosowanie wiedzy:** skuteczne przekładanie teorii na działający kod.
+3. **Znajomość języków:** biegłość w językach wymaganych przez program studiów.
